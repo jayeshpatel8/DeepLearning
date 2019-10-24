@@ -51,3 +51,8 @@
     Gnuradio
     gtc-deep-learning-applications-for-radio-frequency-rf-data
     Training - Oreilly Deep Learning with Keras,Tensorflow 
+	https://0636920209478.oreilly-jupyterhub.com
+	https://resources.oreilly.com/live-training/deep-learning
+	https://github.com/the-deep-learners/TensorFlow-LiveLessons
+	http://jonkrohn.com/resources
+	http://playground.tensorflow.org
