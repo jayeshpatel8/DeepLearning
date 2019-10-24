@@ -7,12 +7,12 @@
 	How Deep Neural Network/Deep Learning works in practice
 	Working with Environment/setup: Anaconda, Google collaborator, Docker
 	Working with Keras, Tensorflow, Theano, numpy, matplot
-	Migrating from Python 2.x to Python 3.x
 	Generating and using Dataset
 	How RF I/Q data based Deep Learning DNN/CNN Model trains 
 	Compare Model Accuracy Vs Hyper parameter Vs dataset size Vs epoch 
 	CPU vs GPU learning rate difference
-
+	Migrating from Python 2.x to Python 3.x
+	
 ## Software Dependencies
     ENVIRONMENT: 
       	Anaconda, Google Collaborator, Docker
