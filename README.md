@@ -39,6 +39,8 @@
     Run on google collaboration platform
     Data set correct loading  
       encoding=latin1
+## CNN Model Summary
+![ CNN Model Summary ](https://github.com/jayeshpatel8/DeepLearning/blob/master/RF/Image/model.png)
 ![](https://github.com/jayeshpatel8/DeepLearning/blob/master/RF/Image/Slide6.JPG)
 ![](https://github.com/jayeshpatel8/DeepLearning/blob/master/RF/Image/Slide7.JPG)
 ![](https://github.com/jayeshpatel8/DeepLearning/blob/master/RF/Image/Slide8.JPG)
