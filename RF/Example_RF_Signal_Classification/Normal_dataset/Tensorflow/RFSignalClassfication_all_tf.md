@@ -413,7 +413,7 @@ plt.legend()
 
 
 
-![png](RFSignalClassfication_all_tf\output_16_1.png)
+![png](RFSignalClassfication_all_tf/output_16_1.png)
 
 
 
@@ -446,7 +446,7 @@ plot_confusion_matrix(confnorm, labels=classes)
 ```
 
 
-![png](RFSignalClassfication_all_tf\output_18_0.png)
+![png](RFSignalClassfication_all_tf/output_18_0.png)
 
 
 
@@ -502,83 +502,83 @@ for snr in snrs:
     
 
 
-![png](RFSignalClassfication_all_tf\output_19_1.png)
+![png](RFSignalClassfication_all_tf/output_19_1.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_2.png)
+![png](RFSignalClassfication_all_tf/output_19_2.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_3.png)
+![png](RFSignalClassfication_all_tf/output_19_3.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_4.png)
+![png](RFSignalClassfication_all_tf/output_19_4.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_5.png)
+![png](RFSignalClassfication_all_tf/output_19_5.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_6.png)
+![png](RFSignalClassfication_all_tf/output_19_6.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_7.png)
+![png](RFSignalClassfication_all_tf/output_19_7.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_8.png)
+![png](RFSignalClassfication_all_tf/output_19_8.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_9.png)
+![png](RFSignalClassfication_all_tf/output_19_9.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_10.png)
+![png](RFSignalClassfication_all_tf/output_19_10.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_11.png)
+![png](RFSignalClassfication_all_tf/output_19_11.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_12.png)
+![png](RFSignalClassfication_all_tf/output_19_12.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_13.png)
+![png](RFSignalClassfication_all_tf/output_19_13.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_14.png)
+![png](RFSignalClassfication_all_tf/output_19_14.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_15.png)
+![png](RFSignalClassfication_all_tf/output_19_15.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_16.png)
+![png](RFSignalClassfication_all_tf/output_19_16.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_17.png)
+![png](RFSignalClassfication_all_tf/output_19_17.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_18.png)
+![png](RFSignalClassfication_all_tf/output_19_18.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_19.png)
+![png](RFSignalClassfication_all_tf/output_19_19.png)
 
 
 
-![png](RFSignalClassfication_all_tf\output_19_20.png)
+![png](RFSignalClassfication_all_tf/output_19_20.png)
 
 
 
@@ -610,7 +610,7 @@ plt.title("CNN2 Classification Accuracy on RadioML 2016.10 Alpha")
 
 
 
-![png](RFSignalClassfication_all_tf\output_21_1.png)
+![png](RFSignalClassfication_all_tf/output_21_1.png)
 
 
 
